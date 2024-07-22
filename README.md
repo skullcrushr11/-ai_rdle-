@@ -1,2 +1,2 @@
 # [ai_rdle]
- AI based Wordle Game [Mini Project]
+ AI image generated based Wordle Game 
